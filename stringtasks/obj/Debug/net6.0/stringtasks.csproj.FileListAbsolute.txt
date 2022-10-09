@@ -1,0 +1,30 @@
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.csproj.AssemblyReference.cache
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.AssemblyInfoInputs.cache
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.AssemblyInfo.cs
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.csproj.CoreCompileInputs.cache
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.deps.json
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.runtimeconfig.json
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.dll
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.pdb
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.dll
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/refint/stringtasks.dll
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.pdb
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.genruntimeconfig.cache
+/Users/ferid/Desktop/untitled folder 2/stringtasks/stringtasks/obj/Debug/net6.0/ref/stringtasks.dll
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.csproj.AssemblyReference.cache
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.AssemblyInfoInputs.cache
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.AssemblyInfo.cs
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.csproj.CoreCompileInputs.cache
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.dll
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/refint/stringtasks.dll
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.pdb
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.deps.json
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.runtimeconfig.json
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.dll
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/bin/Debug/net6.0/stringtasks.pdb
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/stringtasks.genruntimeconfig.cache
+/Users/ferid/Desktop/homework5/stringtasks/stringtasks/obj/Debug/net6.0/ref/stringtasks.dll
